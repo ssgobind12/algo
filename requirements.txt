@@ -1,0 +1,6 @@
+pandas
+pyotp
+streamlit
+plotly
+# You might need to install this if it exists on pypi, or place the growwapi.py module in this folder
+growwapi
